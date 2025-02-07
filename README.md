@@ -14,36 +14,6 @@ Check out the live demo here:
 - **Tailwind CSS**: Styling the application with Tailwind CSS.
 - **GitHub Pages**: Deploying the project easily using GitHub Pages.
 
-## Screenshot
-
-Below is a screenshot of the project:
-
-![React Assignment Screenshot](./assets/screenshot.png)
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
-    ```
-
-2. **Install the dependencies:**
-    ```bash
-    npm install
-    ```
-
-3. **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4. **Build for production:**
-    ```bash
-    npm run build
-    ```
 
 ## Deployment
 
