@@ -1,0 +1,56 @@
+.star {
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+}
+
+.star::before,
+.star::after {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 4px;
+  background-color: white;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.star::before {
+  left: -80px;
+}
+
+.star::after {
+  right: -80px;
+}
+
+/*  */
+
+.star2 {
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+}
+
+.star2::before,
+.star2::after {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 4px;
+  background-color: #314158;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.star2::before {
+  left: -80px;
+}
+
+.star2::after {
+  right: -80px;
+}
+/*  */
+
+.image-item{
+  
+}
