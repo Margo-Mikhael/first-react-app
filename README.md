@@ -5,7 +5,7 @@ This repository contains my introductory React assignment, showcasing the basics
 ## Live Demo
 
 Check out the live demo here:  
-[https://margo-mikhael.github.io/](https://margo-mikhael.github.io/)
+[https://margo-mikhael.github.io/](https://margo-mikhael.github.io/first-react-app/)
 
 ## Features
 
