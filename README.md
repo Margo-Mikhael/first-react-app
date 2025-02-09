@@ -2,6 +2,8 @@
 
 This repository contains my introductory React assignment, showcasing the basics of React development using Vite and Tailwind CSS. The project features a simple user interface with interactive components and is deployed on GitHub Pages.
 
+![screenshot](/Screenshot 2025-02-07 044100.png)
+
 ## Live Demo
 
 Check out the live demo here:  
